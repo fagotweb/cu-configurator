@@ -1,0 +1,4724 @@
+{
+  "RCVH22/RF51-P4K0": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 2.63,
+        "evap_-15": 3.27,
+        "evap_-10": 3.98,
+        "evap_-5": 4.78,
+        "evap_0": 5.7,
+        "evap_5": 6.8,
+        "evap_10": 8.16,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 2.45,
+        "evap_-15": 3.07,
+        "evap_-10": 3.75,
+        "evap_-5": 4.5,
+        "evap_0": 5.37,
+        "evap_5": 6.39,
+        "evap_10": 7.65,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 2.28,
+        "evap_-15": 2.88,
+        "evap_-10": 3.53,
+        "evap_-5": 4.25,
+        "evap_0": 5.07,
+        "evap_5": 6.04,
+        "evap_10": 7.21,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 2.12,
+        "evap_-15": 2.69,
+        "evap_-10": 3.32,
+        "evap_-5": 4.01,
+        "evap_0": 4.79,
+        "evap_5": 5.7,
+        "evap_10": 6.8,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 1.94,
+        "evap_-15": 2.49,
+        "evap_-10": 3.09,
+        "evap_-5": 3.76,
+        "evap_0": 4.51,
+        "evap_5": 5.37,
+        "evap_10": 6.41,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 2.27,
+        "evap_-10": 2.85,
+        "evap_-5": 3.49,
+        "evap_0": 4.2,
+        "evap_5": 5.02,
+        "evap_10": 6,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 2.58,
+        "evap_-5": 3.19,
+        "evap_0": 3.86,
+        "evap_5": 4.63,
+        "evap_10": 5.55,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 2.84,
+        "evap_0": 3.47,
+        "evap_5": 4.19,
+        "evap_10": 5.04,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 1.07,
+        "evap_-15": 1.06,
+        "evap_-10": 1.06,
+        "evap_-5": 1.06,
+        "evap_0": 1.06,
+        "evap_5": 1.07,
+        "evap_10": 1.08,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 1.22,
+        "evap_-15": 1.21,
+        "evap_-10": 1.2,
+        "evap_-5": 1.2,
+        "evap_0": 1.2,
+        "evap_5": 1.2,
+        "evap_10": 1.2,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 1.38,
+        "evap_-15": 1.37,
+        "evap_-10": 1.35,
+        "evap_-5": 1.34,
+        "evap_0": 1.34,
+        "evap_5": 1.33,
+        "evap_10": 1.34,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 1.57,
+        "evap_-15": 1.54,
+        "evap_-10": 1.52,
+        "evap_-5": 1.5,
+        "evap_0": 1.49,
+        "evap_5": 1.49,
+        "evap_10": 1.49,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 1.77,
+        "evap_-15": 1.74,
+        "evap_-10": 1.71,
+        "evap_-5": 1.69,
+        "evap_0": 1.67,
+        "evap_5": 1.66,
+        "evap_10": 1.66,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 1.97,
+        "evap_-10": 1.93,
+        "evap_-5": 1.9,
+        "evap_0": 1.88,
+        "evap_5": 1.87,
+        "evap_10": 1.86,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 2.19,
+        "evap_-5": 2.16,
+        "evap_0": 2.13,
+        "evap_5": 2.11,
+        "evap_10": 2.1,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 2.46,
+        "evap_0": 2.43,
+        "evap_5": 2.4,
+        "evap_10": 2.38,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 50.27,
+        "evap_-15": 61.81,
+        "evap_-10": 74.43,
+        "evap_-5": 88.46,
+        "evap_0": 104.48,
+        "evap_5": 123.53,
+        "evap_10": 147.15,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 49.07,
+        "evap_-15": 60.62,
+        "evap_-10": 73.2,
+        "evap_-5": 87.07,
+        "evap_0": 102.75,
+        "evap_5": 121.2,
+        "evap_10": 143.85,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 47.98,
+        "evap_-15": 59.65,
+        "evap_-10": 72.31,
+        "evap_-5": 86.17,
+        "evap_0": 101.72,
+        "evap_5": 119.83,
+        "evap_10": 141.83,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 46.85,
+        "evap_-15": 58.69,
+        "evap_-10": 71.51,
+        "evap_-5": 85.49,
+        "evap_0": 101.06,
+        "evap_5": 119.03,
+        "evap_10": 140.63,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 45.48,
+        "evap_-15": 57.52,
+        "evap_-10": 70.55,
+        "evap_-5": 84.73,
+        "evap_0": 100.42,
+        "evap_5": 118.38,
+        "evap_10": 139.77,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 55.95,
+        "evap_-10": 69.19,
+        "evap_-5": 83.59,
+        "evap_0": 99.46,
+        "evap_5": 117.5,
+        "evap_10": 138.79,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 67.19,
+        "evap_-5": 81.78,
+        "evap_0": 97.83,
+        "evap_5": 115.97,
+        "evap_10": 137.22,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 79.02,
+        "evap_0": 95.19,
+        "evap_5": 113.4,
+        "evap_10": 134.6,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH25/RF51-P5K5": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 2.95,
+        "evap_-15": 3.67,
+        "evap_-10": 4.46,
+        "evap_-5": 5.36,
+        "evap_0": 6.39,
+        "evap_5": 7.63,
+        "evap_10": 9.16,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 2.75,
+        "evap_-15": 3.44,
+        "evap_-10": 4.2,
+        "evap_-5": 5.05,
+        "evap_0": 6.02,
+        "evap_5": 7.17,
+        "evap_10": 8.58,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 2.56,
+        "evap_-15": 3.23,
+        "evap_-10": 3.96,
+        "evap_-5": 4.77,
+        "evap_0": 5.69,
+        "evap_5": 6.77,
+        "evap_10": 8.09,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 2.37,
+        "evap_-15": 3.01,
+        "evap_-10": 3.72,
+        "evap_-5": 4.5,
+        "evap_0": 5.38,
+        "evap_5": 6.4,
+        "evap_10": 7.63,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 2.17,
+        "evap_-15": 2.79,
+        "evap_-10": 3.47,
+        "evap_-5": 4.22,
+        "evap_0": 5.06,
+        "evap_5": 6.03,
+        "evap_10": 7.19,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 2.55,
+        "evap_-10": 3.2,
+        "evap_-5": 3.92,
+        "evap_0": 4.72,
+        "evap_5": 5.64,
+        "evap_10": 6.73,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 2.89,
+        "evap_-5": 3.58,
+        "evap_0": 4.33,
+        "evap_5": 5.2,
+        "evap_10": 6.22,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 3.19,
+        "evap_0": 3.9,
+        "evap_5": 4.7,
+        "evap_10": 5.65,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 1.18,
+        "evap_-15": 1.18,
+        "evap_-10": 1.17,
+        "evap_-5": 1.17,
+        "evap_0": 1.17,
+        "evap_5": 1.18,
+        "evap_10": 1.19,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 1.35,
+        "evap_-15": 1.34,
+        "evap_-10": 1.33,
+        "evap_-5": 1.32,
+        "evap_0": 1.32,
+        "evap_5": 1.32,
+        "evap_10": 1.33,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 1.53,
+        "evap_-15": 1.51,
+        "evap_-10": 1.5,
+        "evap_-5": 1.49,
+        "evap_0": 1.48,
+        "evap_5": 1.48,
+        "evap_10": 1.48,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 1.73,
+        "evap_-15": 1.7,
+        "evap_-10": 1.68,
+        "evap_-5": 1.66,
+        "evap_0": 1.65,
+        "evap_5": 1.64,
+        "evap_10": 1.64,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 1.96,
+        "evap_-15": 1.92,
+        "evap_-10": 1.89,
+        "evap_-5": 1.87,
+        "evap_0": 1.85,
+        "evap_5": 1.84,
+        "evap_10": 1.83,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 2.18,
+        "evap_-10": 2.14,
+        "evap_-5": 2.11,
+        "evap_0": 2.08,
+        "evap_5": 2.06,
+        "evap_10": 2.06,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 2.43,
+        "evap_-5": 2.39,
+        "evap_0": 2.36,
+        "evap_5": 2.33,
+        "evap_10": 2.32,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 2.72,
+        "evap_0": 2.68,
+        "evap_5": 2.65,
+        "evap_10": 2.64,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 56.4,
+        "evap_-15": 69.36,
+        "evap_-10": 83.52,
+        "evap_-5": 99.25,
+        "evap_0": 117.23,
+        "evap_5": 138.6,
+        "evap_10": 165.11,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 55.05,
+        "evap_-15": 68.02,
+        "evap_-10": 82.13,
+        "evap_-5": 97.69,
+        "evap_0": 115.29,
+        "evap_5": 135.99,
+        "evap_10": 161.4,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 53.84,
+        "evap_-15": 66.93,
+        "evap_-10": 81.13,
+        "evap_-5": 96.69,
+        "evap_0": 114.14,
+        "evap_5": 134.46,
+        "evap_10": 159.14,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 52.56,
+        "evap_-15": 65.85,
+        "evap_-10": 80.23,
+        "evap_-5": 95.92,
+        "evap_0": 113.4,
+        "evap_5": 133.55,
+        "evap_10": 157.79,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 51.03,
+        "evap_-15": 64.54,
+        "evap_-10": 79.16,
+        "evap_-5": 95.07,
+        "evap_0": 112.68,
+        "evap_5": 132.83,
+        "evap_10": 156.82,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 62.77,
+        "evap_-10": 77.64,
+        "evap_-5": 93.79,
+        "evap_0": 111.6,
+        "evap_5": 131.84,
+        "evap_10": 155.72,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 75.39,
+        "evap_-5": 91.76,
+        "evap_0": 109.77,
+        "evap_5": 130.12,
+        "evap_10": 153.97,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 88.66,
+        "evap_0": 106.81,
+        "evap_5": 127.24,
+        "evap_10": 151.03,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH35/RF51-P7K5": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 4.38,
+        "evap_-15": 5.45,
+        "evap_-10": 6.64,
+        "evap_-5": 7.97,
+        "evap_0": 9.51,
+        "evap_5": 11.34,
+        "evap_10": 13.62,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 4.09,
+        "evap_-15": 5.12,
+        "evap_-10": 6.25,
+        "evap_-5": 7.51,
+        "evap_0": 8.96,
+        "evap_5": 10.66,
+        "evap_10": 12.76,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 3.81,
+        "evap_-15": 4.8,
+        "evap_-10": 5.89,
+        "evap_-5": 7.1,
+        "evap_0": 8.47,
+        "evap_5": 10.07,
+        "evap_10": 12.02,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 3.53,
+        "evap_-15": 4.48,
+        "evap_-10": 5.53,
+        "evap_-5": 6.69,
+        "evap_0": 8,
+        "evap_5": 9.52,
+        "evap_10": 11.35,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 3.23,
+        "evap_-15": 4.15,
+        "evap_-10": 5.16,
+        "evap_-5": 6.27,
+        "evap_0": 7.52,
+        "evap_5": 8.96,
+        "evap_10": 10.69,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 3.79,
+        "evap_-10": 4.75,
+        "evap_-5": 5.82,
+        "evap_0": 7.01,
+        "evap_5": 8.38,
+        "evap_10": 10,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 4.3,
+        "evap_-5": 5.32,
+        "evap_0": 6.44,
+        "evap_5": 7.73,
+        "evap_10": 9.25,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 4.74,
+        "evap_0": 5.79,
+        "evap_5": 6.99,
+        "evap_10": 8.4,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 1.57,
+        "evap_-15": 1.56,
+        "evap_-10": 1.56,
+        "evap_-5": 1.56,
+        "evap_0": 1.56,
+        "evap_5": 1.57,
+        "evap_10": 1.59,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 1.8,
+        "evap_-15": 1.78,
+        "evap_-10": 1.77,
+        "evap_-5": 1.76,
+        "evap_0": 1.76,
+        "evap_5": 1.76,
+        "evap_10": 1.77,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 2.04,
+        "evap_-15": 2.01,
+        "evap_-10": 1.99,
+        "evap_-5": 1.98,
+        "evap_0": 1.97,
+        "evap_5": 1.96,
+        "evap_10": 1.97,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 2.3,
+        "evap_-15": 2.27,
+        "evap_-10": 2.24,
+        "evap_-5": 2.21,
+        "evap_0": 2.2,
+        "evap_5": 2.19,
+        "evap_10": 2.19,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 2.6,
+        "evap_-15": 2.56,
+        "evap_-10": 2.52,
+        "evap_-5": 2.49,
+        "evap_0": 2.46,
+        "evap_5": 2.45,
+        "evap_10": 2.44,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 2.9,
+        "evap_-10": 2.85,
+        "evap_-5": 2.8,
+        "evap_0": 2.77,
+        "evap_5": 2.75,
+        "evap_10": 2.74,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 3.23,
+        "evap_-5": 3.18,
+        "evap_0": 3.14,
+        "evap_5": 3.11,
+        "evap_10": 3.09,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 3.62,
+        "evap_0": 3.57,
+        "evap_5": 3.53,
+        "evap_10": 3.51,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 83.86,
+        "evap_-15": 103.12,
+        "evap_-10": 124.17,
+        "evap_-5": 147.57,
+        "evap_0": 174.29,
+        "evap_5": 206.07,
+        "evap_10": 245.48,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 81.85,
+        "evap_-15": 101.13,
+        "evap_-10": 122.11,
+        "evap_-5": 145.24,
+        "evap_0": 171.41,
+        "evap_5": 202.19,
+        "evap_10": 239.97,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 80.04,
+        "evap_-15": 99.51,
+        "evap_-10": 120.62,
+        "evap_-5": 143.76,
+        "evap_0": 169.7,
+        "evap_5": 199.91,
+        "evap_10": 236.6,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 78.15,
+        "evap_-15": 97.9,
+        "evap_-10": 119.29,
+        "evap_-5": 142.62,
+        "evap_0": 168.59,
+        "evap_5": 198.56,
+        "evap_10": 234.59,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 75.87,
+        "evap_-15": 95.96,
+        "evap_-10": 117.69,
+        "evap_-5": 141.34,
+        "evap_0": 167.53,
+        "evap_5": 197.49,
+        "evap_10": 233.16,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 93.33,
+        "evap_-10": 115.43,
+        "evap_-5": 139.44,
+        "evap_0": 165.92,
+        "evap_5": 196.01,
+        "evap_10": 231.53,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 112.08,
+        "evap_-5": 136.43,
+        "evap_0": 163.2,
+        "evap_5": 193.46,
+        "evap_10": 228.91,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 131.82,
+        "evap_0": 158.8,
+        "evap_5": 189.18,
+        "evap_10": 224.54,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH46/RF51-P11K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 5.81,
+        "evap_-15": 7.23,
+        "evap_-10": 8.8,
+        "evap_-5": 10.57,
+        "evap_0": 12.6,
+        "evap_5": 15.03,
+        "evap_10": 18.06,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 5.42,
+        "evap_-15": 6.78,
+        "evap_-10": 8.28,
+        "evap_-5": 9.96,
+        "evap_0": 11.87,
+        "evap_5": 14.14,
+        "evap_10": 16.92,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 5.05,
+        "evap_-15": 6.36,
+        "evap_-10": 7.81,
+        "evap_-5": 9.41,
+        "evap_0": 11.22,
+        "evap_5": 13.35,
+        "evap_10": 15.94,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 4.68,
+        "evap_-15": 5.94,
+        "evap_-10": 7.33,
+        "evap_-5": 8.87,
+        "evap_0": 10.61,
+        "evap_5": 12.62,
+        "evap_10": 15.05,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 6.84,
+        "evap_-5": 8.32,
+        "evap_0": 9.98,
+        "evap_5": 11.89,
+        "evap_10": 14.17,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 7.72,
+        "evap_0": 9.3,
+        "evap_5": 11.11,
+        "evap_10": 13.26,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 8.54,
+        "evap_5": 10.25,
+        "evap_10": 12.27,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 2.02,
+        "evap_-15": 2.01,
+        "evap_-10": 2.01,
+        "evap_-5": 2.01,
+        "evap_0": 2.01,
+        "evap_5": 2.02,
+        "evap_10": 2.04,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 2.31,
+        "evap_-15": 2.29,
+        "evap_-10": 2.28,
+        "evap_-5": 2.27,
+        "evap_0": 2.26,
+        "evap_5": 2.27,
+        "evap_10": 2.28,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 2.62,
+        "evap_-15": 2.59,
+        "evap_-10": 2.56,
+        "evap_-5": 2.54,
+        "evap_0": 2.53,
+        "evap_5": 2.53,
+        "evap_10": 2.53,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 2.96,
+        "evap_-15": 2.92,
+        "evap_-10": 2.88,
+        "evap_-5": 2.85,
+        "evap_0": 2.83,
+        "evap_5": 2.81,
+        "evap_10": 2.82,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 3.24,
+        "evap_-5": 3.2,
+        "evap_0": 3.17,
+        "evap_5": 3.15,
+        "evap_10": 3.14,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 3.61,
+        "evap_0": 3.56,
+        "evap_5": 3.53,
+        "evap_10": 3.52,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 4.03,
+        "evap_5": 4,
+        "evap_10": 3.97,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 111.19,
+        "evap_-15": 136.73,
+        "evap_-10": 164.65,
+        "evap_-5": 195.67,
+        "evap_0": 231.11,
+        "evap_5": 273.25,
+        "evap_10": 325.49,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 108.53,
+        "evap_-15": 134.1,
+        "evap_-10": 161.92,
+        "evap_-5": 192.59,
+        "evap_0": 227.28,
+        "evap_5": 268.09,
+        "evap_10": 318.2,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 106.14,
+        "evap_-15": 131.95,
+        "evap_-10": 159.94,
+        "evap_-5": 190.62,
+        "evap_0": 225.01,
+        "evap_5": 265.07,
+        "evap_10": 313.73,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 103.62,
+        "evap_-15": 129.82,
+        "evap_-10": 158.17,
+        "evap_-5": 189.11,
+        "evap_0": 223.55,
+        "evap_5": 263.29,
+        "evap_10": 311.06,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 156.06,
+        "evap_-5": 187.42,
+        "evap_0": 222.13,
+        "evap_5": 261.86,
+        "evap_10": 309.16,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 184.89,
+        "evap_0": 220,
+        "evap_5": 259.9,
+        "evap_10": 307,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 216.4,
+        "evap_5": 256.53,
+        "evap_10": 303.53,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH55/RF51-P11K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 6.87,
+        "evap_-15": 8.55,
+        "evap_-10": 10.42,
+        "evap_-5": 12.51,
+        "evap_0": 14.92,
+        "evap_5": 17.79,
+        "evap_10": 21.37,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 6.42,
+        "evap_-15": 8.03,
+        "evap_-10": 9.8,
+        "evap_-5": 11.79,
+        "evap_0": 14.05,
+        "evap_5": 16.73,
+        "evap_10": 20.02,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 5.98,
+        "evap_-15": 7.53,
+        "evap_-10": 9.24,
+        "evap_-5": 11.13,
+        "evap_0": 13.28,
+        "evap_5": 15.8,
+        "evap_10": 18.87,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 5.54,
+        "evap_-15": 7.03,
+        "evap_-10": 8.68,
+        "evap_-5": 10.5,
+        "evap_0": 12.55,
+        "evap_5": 14.93,
+        "evap_10": 17.81,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 8.09,
+        "evap_-5": 9.85,
+        "evap_0": 11.81,
+        "evap_5": 14.07,
+        "evap_10": 16.77,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 9.13,
+        "evap_0": 11,
+        "evap_5": 13.15,
+        "evap_10": 15.7,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 10.11,
+        "evap_5": 12.13,
+        "evap_10": 14.52,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 2.37,
+        "evap_-15": 2.36,
+        "evap_-10": 2.35,
+        "evap_-5": 2.35,
+        "evap_0": 2.36,
+        "evap_5": 2.37,
+        "evap_10": 2.39,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 2.71,
+        "evap_-15": 2.69,
+        "evap_-10": 2.67,
+        "evap_-5": 2.66,
+        "evap_0": 2.65,
+        "evap_5": 2.66,
+        "evap_10": 2.67,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 3.07,
+        "evap_-15": 3.04,
+        "evap_-10": 3.01,
+        "evap_-5": 2.98,
+        "evap_0": 2.97,
+        "evap_5": 2.96,
+        "evap_10": 2.97,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 3.47,
+        "evap_-15": 3.42,
+        "evap_-10": 3.38,
+        "evap_-5": 3.34,
+        "evap_0": 3.31,
+        "evap_5": 3.3,
+        "evap_10": 3.3,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 3.8,
+        "evap_-5": 3.75,
+        "evap_0": 3.71,
+        "evap_5": 3.69,
+        "evap_10": 3.68,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 4.23,
+        "evap_0": 4.18,
+        "evap_5": 4.14,
+        "evap_10": 4.13,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 4.73,
+        "evap_5": 4.68,
+        "evap_10": 4.66,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 131.58,
+        "evap_-15": 161.79,
+        "evap_-10": 194.83,
+        "evap_-5": 231.54,
+        "evap_0": 273.47,
+        "evap_5": 323.34,
+        "evap_10": 385.17,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 128.43,
+        "evap_-15": 158.69,
+        "evap_-10": 191.6,
+        "evap_-5": 227.9,
+        "evap_0": 268.95,
+        "evap_5": 317.24,
+        "evap_10": 376.53,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 125.6,
+        "evap_-15": 156.14,
+        "evap_-10": 189.26,
+        "evap_-5": 225.56,
+        "evap_0": 266.26,
+        "evap_5": 313.66,
+        "evap_10": 371.25,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 122.62,
+        "evap_-15": 153.62,
+        "evap_-10": 187.17,
+        "evap_-5": 223.78,
+        "evap_0": 264.53,
+        "evap_5": 311.56,
+        "evap_10": 368.09,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 184.67,
+        "evap_-5": 221.77,
+        "evap_0": 262.86,
+        "evap_5": 309.87,
+        "evap_10": 365.84,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 218.79,
+        "evap_0": 260.34,
+        "evap_5": 307.55,
+        "evap_10": 363.28,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 256.07,
+        "evap_5": 303.56,
+        "evap_10": 359.18,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH68/RF51-P15K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 8.76,
+        "evap_-15": 10.9,
+        "evap_-10": 13.27,
+        "evap_-5": 15.94,
+        "evap_0": 19,
+        "evap_5": 22.66,
+        "evap_10": 27.22,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 8.17,
+        "evap_-15": 10.22,
+        "evap_-10": 12.49,
+        "evap_-5": 15.02,
+        "evap_0": 17.9,
+        "evap_5": 21.31,
+        "evap_10": 25.51,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 7.61,
+        "evap_-15": 9.59,
+        "evap_-10": 11.77,
+        "evap_-5": 14.19,
+        "evap_0": 16.92,
+        "evap_5": 20.12,
+        "evap_10": 24.03,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 7.05,
+        "evap_-15": 8.96,
+        "evap_-10": 11.05,
+        "evap_-5": 13.38,
+        "evap_0": 15.99,
+        "evap_5": 19.02,
+        "evap_10": 22.69,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 6.46,
+        "evap_-15": 8.29,
+        "evap_-10": 10.31,
+        "evap_-5": 12.54,
+        "evap_0": 15.04,
+        "evap_5": 17.92,
+        "evap_10": 21.37,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 7.57,
+        "evap_-10": 9.5,
+        "evap_-5": 11.64,
+        "evap_0": 14.02,
+        "evap_5": 16.75,
+        "evap_10": 20,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 8.6,
+        "evap_-5": 10.63,
+        "evap_0": 12.88,
+        "evap_5": 15.45,
+        "evap_10": 18.49,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 9.48,
+        "evap_0": 11.58,
+        "evap_5": 13.98,
+        "evap_10": 16.8,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 2.99,
+        "evap_-15": 2.98,
+        "evap_-10": 2.97,
+        "evap_-5": 2.97,
+        "evap_0": 2.97,
+        "evap_5": 2.99,
+        "evap_10": 3.01,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 3.42,
+        "evap_-15": 3.39,
+        "evap_-10": 3.37,
+        "evap_-5": 3.35,
+        "evap_0": 3.35,
+        "evap_5": 3.35,
+        "evap_10": 3.37,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 3.88,
+        "evap_-15": 3.83,
+        "evap_-10": 3.79,
+        "evap_-5": 3.76,
+        "evap_0": 3.74,
+        "evap_5": 3.74,
+        "evap_10": 3.75,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 4.38,
+        "evap_-15": 4.31,
+        "evap_-10": 4.26,
+        "evap_-5": 4.21,
+        "evap_0": 4.18,
+        "evap_5": 4.16,
+        "evap_10": 4.16,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 4.95,
+        "evap_-15": 4.87,
+        "evap_-10": 4.79,
+        "evap_-5": 4.73,
+        "evap_0": 4.68,
+        "evap_5": 4.65,
+        "evap_10": 4.64,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 5.51,
+        "evap_-10": 5.41,
+        "evap_-5": 5.33,
+        "evap_0": 5.27,
+        "evap_5": 5.23,
+        "evap_10": 5.2,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 6.14,
+        "evap_-5": 6.04,
+        "evap_0": 5.96,
+        "evap_5": 5.91,
+        "evap_10": 5.87,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 6.89,
+        "evap_0": 6.79,
+        "evap_5": 6.72,
+        "evap_10": 6.67,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 167.63,
+        "evap_-15": 206.12,
+        "evap_-10": 248.21,
+        "evap_-5": 294.97,
+        "evap_0": 348.39,
+        "evap_5": 411.92,
+        "evap_10": 490.68,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 163.61,
+        "evap_-15": 202.16,
+        "evap_-10": 244.09,
+        "evap_-5": 290.33,
+        "evap_0": 342.62,
+        "evap_5": 404.15,
+        "evap_10": 479.68,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 160,
+        "evap_-15": 198.92,
+        "evap_-10": 241.11,
+        "evap_-5": 287.35,
+        "evap_0": 339.21,
+        "evap_5": 399.59,
+        "evap_10": 472.95,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 156.21,
+        "evap_-15": 195.7,
+        "evap_-10": 238.44,
+        "evap_-5": 285.08,
+        "evap_0": 337,
+        "evap_5": 396.9,
+        "evap_10": 468.93,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": 151.66,
+        "evap_-15": 191.81,
+        "evap_-10": 235.25,
+        "evap_-5": 282.53,
+        "evap_0": 334.87,
+        "evap_5": 394.75,
+        "evap_10": 466.06,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": 186.56,
+        "evap_-10": 230.73,
+        "evap_-5": 278.73,
+        "evap_0": 331.65,
+        "evap_5": 391.8,
+        "evap_10": 462.8,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 224.04,
+        "evap_-5": 272.71,
+        "evap_0": 326.22,
+        "evap_5": 386.71,
+        "evap_10": 457.58,
+        "evap_13": null
+      },
+      "cond_60": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 263.49,
+        "evap_0": 317.43,
+        "evap_5": 378.15,
+        "evap_10": 448.84,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH86/RF51-P18K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 11.62,
+        "evap_-15": 14.46,
+        "evap_-10": 17.6,
+        "evap_-5": 21.14,
+        "evap_0": 25.21,
+        "evap_5": 30.07,
+        "evap_10": 36.11,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 10.84,
+        "evap_-15": 13.57,
+        "evap_-10": 16.57,
+        "evap_-5": 19.92,
+        "evap_0": 23.75,
+        "evap_5": 28.27,
+        "evap_10": 33.84,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 10.1,
+        "evap_-15": 12.72,
+        "evap_-10": 15.61,
+        "evap_-5": 18.82,
+        "evap_0": 22.45,
+        "evap_5": 26.7,
+        "evap_10": 31.89,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 9.36,
+        "evap_-15": 11.88,
+        "evap_-10": 14.67,
+        "evap_-5": 17.75,
+        "evap_0": 21.21,
+        "evap_5": 25.23,
+        "evap_10": 30.1,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 13.68,
+        "evap_-5": 16.64,
+        "evap_0": 19.95,
+        "evap_5": 23.77,
+        "evap_10": 28.35,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 15.44,
+        "evap_0": 18.6,
+        "evap_5": 22.22,
+        "evap_10": 26.53,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 17.09,
+        "evap_5": 20.5,
+        "evap_10": 24.54,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 3.86,
+        "evap_-15": 3.85,
+        "evap_-10": 3.84,
+        "evap_-5": 3.83,
+        "evap_0": 3.84,
+        "evap_5": 3.86,
+        "evap_10": 3.9,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 4.42,
+        "evap_-15": 4.38,
+        "evap_-10": 4.35,
+        "evap_-5": 4.33,
+        "evap_0": 4.33,
+        "evap_5": 4.33,
+        "evap_10": 4.36,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 5.01,
+        "evap_-15": 4.95,
+        "evap_-10": 4.9,
+        "evap_-5": 4.86,
+        "evap_0": 4.84,
+        "evap_5": 4.83,
+        "evap_10": 4.84,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 5.66,
+        "evap_-15": 5.58,
+        "evap_-10": 5.5,
+        "evap_-5": 5.44,
+        "evap_0": 5.4,
+        "evap_5": 5.38,
+        "evap_10": 5.38,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 6.19,
+        "evap_-5": 6.11,
+        "evap_0": 6.05,
+        "evap_5": 6.01,
+        "evap_10": 6,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 6.89,
+        "evap_0": 6.81,
+        "evap_5": 6.76,
+        "evap_10": 6.73,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 7.71,
+        "evap_5": 7.64,
+        "evap_10": 7.59,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 222.39,
+        "evap_-15": 273.46,
+        "evap_-10": 329.29,
+        "evap_-5": 391.34,
+        "evap_0": 462.21,
+        "evap_5": 546.49,
+        "evap_10": 650.99,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 217.06,
+        "evap_-15": 268.2,
+        "evap_-10": 323.83,
+        "evap_-5": 385.18,
+        "evap_0": 454.56,
+        "evap_5": 536.18,
+        "evap_10": 636.39,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 212.27,
+        "evap_-15": 263.9,
+        "evap_-10": 319.88,
+        "evap_-5": 381.23,
+        "evap_0": 450.02,
+        "evap_5": 530.14,
+        "evap_10": 627.46,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 207.25,
+        "evap_-15": 259.63,
+        "evap_-10": 316.34,
+        "evap_-5": 378.21,
+        "evap_0": 447.1,
+        "evap_5": 526.57,
+        "evap_10": 622.13,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 312.11,
+        "evap_-5": 374.83,
+        "evap_0": 444.27,
+        "evap_5": 523.72,
+        "evap_10": 618.33,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 369.79,
+        "evap_0": 440.01,
+        "evap_5": 519.8,
+        "evap_10": 613.99,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 432.8,
+        "evap_5": 513.05,
+        "evap_10": 607.07,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH116/RF51-P22K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 15.25,
+        "evap_-15": 18.98,
+        "evap_-10": 23.1,
+        "evap_-5": 27.75,
+        "evap_0": 33.09,
+        "evap_5": 39.46,
+        "evap_10": 47.4,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 14.23,
+        "evap_-15": 17.8,
+        "evap_-10": 21.75,
+        "evap_-5": 26.15,
+        "evap_0": 31.17,
+        "evap_5": 37.1,
+        "evap_10": 44.42,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 13.26,
+        "evap_-15": 16.7,
+        "evap_-10": 20.49,
+        "evap_-5": 24.7,
+        "evap_0": 29.46,
+        "evap_5": 35.04,
+        "evap_10": 41.85,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 12.28,
+        "evap_-15": 15.6,
+        "evap_-10": 19.25,
+        "evap_-5": 23.29,
+        "evap_0": 27.84,
+        "evap_5": 33.12,
+        "evap_10": 39.5,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 17.95,
+        "evap_-5": 21.84,
+        "evap_0": 26.19,
+        "evap_5": 31.2,
+        "evap_10": 37.21,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 20.26,
+        "evap_0": 24.41,
+        "evap_5": 29.17,
+        "evap_10": 34.82,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 22.43,
+        "evap_5": 26.91,
+        "evap_10": 32.2,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 5.01,
+        "evap_-15": 4.99,
+        "evap_-10": 4.98,
+        "evap_-5": 4.98,
+        "evap_0": 4.99,
+        "evap_5": 5.01,
+        "evap_10": 5.06,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 5.74,
+        "evap_-15": 5.69,
+        "evap_-10": 5.65,
+        "evap_-5": 5.63,
+        "evap_0": 5.62,
+        "evap_5": 5.63,
+        "evap_10": 5.66,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 6.51,
+        "evap_-15": 6.43,
+        "evap_-10": 6.36,
+        "evap_-5": 6.31,
+        "evap_0": 6.28,
+        "evap_5": 6.27,
+        "evap_10": 6.29,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 7.35,
+        "evap_-15": 7.24,
+        "evap_-10": 7.14,
+        "evap_-5": 7.07,
+        "evap_0": 7.01,
+        "evap_5": 6.99,
+        "evap_10": 6.99,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 8.04,
+        "evap_-5": 7.93,
+        "evap_0": 7.86,
+        "evap_5": 7.81,
+        "evap_10": 7.79,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 8.95,
+        "evap_0": 8.84,
+        "evap_5": 8.77,
+        "evap_10": 8.74,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 10.01,
+        "evap_5": 9.92,
+        "evap_10": 9.86,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 291.89,
+        "evap_-15": 358.91,
+        "evap_-10": 432.2,
+        "evap_-5": 513.64,
+        "evap_0": 606.65,
+        "evap_5": 717.27,
+        "evap_10": 854.42,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 284.9,
+        "evap_-15": 352.02,
+        "evap_-10": 425.03,
+        "evap_-5": 505.55,
+        "evap_0": 596.6,
+        "evap_5": 703.74,
+        "evap_10": 835.26,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 278.61,
+        "evap_-15": 346.37,
+        "evap_-10": 419.84,
+        "evap_-5": 500.37,
+        "evap_0": 590.66,
+        "evap_5": 695.8,
+        "evap_10": 823.54,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 272.01,
+        "evap_-15": 340.77,
+        "evap_-10": 415.19,
+        "evap_-5": 496.41,
+        "evap_0": 586.82,
+        "evap_5": 691.13,
+        "evap_10": 816.54,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 409.65,
+        "evap_-5": 491.96,
+        "evap_0": 583.1,
+        "evap_5": 687.38,
+        "evap_10": 811.55,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 485.35,
+        "evap_0": 577.51,
+        "evap_5": 682.24,
+        "evap_10": 805.87,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 568.05,
+        "evap_5": 673.38,
+        "evap_10": 796.78,
+        "evap_13": null
+      }
+    }
+  },
+  "RCVH170/RF101-P37K": {
+    "cooling_capacity": {
+      "cond_25": {
+        "evap_-20": 22.08,
+        "evap_-15": 27.47,
+        "evap_-10": 33.45,
+        "evap_-5": 40.17,
+        "evap_0": 47.9,
+        "evap_5": 57.13,
+        "evap_10": 68.62,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 20.6,
+        "evap_-15": 25.77,
+        "evap_-10": 31.48,
+        "evap_-5": 37.86,
+        "evap_0": 45.12,
+        "evap_5": 53.71,
+        "evap_10": 64.3,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 19.19,
+        "evap_-15": 24.18,
+        "evap_-10": 29.66,
+        "evap_-5": 35.76,
+        "evap_0": 42.65,
+        "evap_5": 50.73,
+        "evap_10": 60.58,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 17.78,
+        "evap_-15": 22.58,
+        "evap_-10": 27.86,
+        "evap_-5": 33.72,
+        "evap_0": 40.3,
+        "evap_5": 47.94,
+        "evap_10": 57.18,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 25.99,
+        "evap_-5": 31.62,
+        "evap_0": 37.91,
+        "evap_5": 45.17,
+        "evap_10": 53.86,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 29.33,
+        "evap_0": 35.34,
+        "evap_5": 42.22,
+        "evap_10": 50.4,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 32.47,
+        "evap_5": 38.95,
+        "evap_10": 46.62,
+        "evap_13": null
+      }
+    },
+    "power_consumption": {
+      "cond_25": {
+        "evap_-20": 7.15,
+        "evap_-15": 7.13,
+        "evap_-10": 7.11,
+        "evap_-5": 7.1,
+        "evap_0": 7.12,
+        "evap_5": 7.15,
+        "evap_10": 7.22,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 8.19,
+        "evap_-15": 8.12,
+        "evap_-10": 8.06,
+        "evap_-5": 8.03,
+        "evap_0": 8.01,
+        "evap_5": 8.03,
+        "evap_10": 8.07,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 9.28,
+        "evap_-15": 9.17,
+        "evap_-10": 9.07,
+        "evap_-5": 9,
+        "evap_0": 8.96,
+        "evap_5": 8.95,
+        "evap_10": 8.97,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 10.49,
+        "evap_-15": 10.33,
+        "evap_-10": 10.19,
+        "evap_-5": 10.08,
+        "evap_0": 10.01,
+        "evap_5": 9.97,
+        "evap_10": 9.97,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 11.47,
+        "evap_-5": 11.32,
+        "evap_0": 11.21,
+        "evap_5": 11.14,
+        "evap_10": 11.11,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 12.77,
+        "evap_0": 12.62,
+        "evap_5": 12.51,
+        "evap_10": 12.46,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 14.28,
+        "evap_5": 14.15,
+        "evap_10": 14.06,
+        "evap_13": null
+      }
+    },
+    "current_a": {
+      "cond_25": {
+        "evap_-20": 422.54,
+        "evap_-15": 519.56,
+        "evap_-10": 625.66,
+        "evap_-5": 743.55,
+        "evap_0": 878.2,
+        "evap_5": 1038.34,
+        "evap_10": 1236.88,
+        "evap_13": null
+      },
+      "cond_30": {
+        "evap_-20": 412.42,
+        "evap_-15": 509.58,
+        "evap_-10": 615.29,
+        "evap_-5": 731.84,
+        "evap_0": 863.66,
+        "evap_5": 1018.75,
+        "evap_10": 1209.14,
+        "evap_13": null
+      },
+      "cond_35": {
+        "evap_-20": 403.32,
+        "evap_-15": 501.42,
+        "evap_-10": 607.77,
+        "evap_-5": 724.34,
+        "evap_0": 855.05,
+        "evap_5": 1007.26,
+        "evap_10": 1192.17,
+        "evap_13": null
+      },
+      "cond_40": {
+        "evap_-20": 393.77,
+        "evap_-15": 493.31,
+        "evap_-10": 601.04,
+        "evap_-5": 718.61,
+        "evap_0": 849.49,
+        "evap_5": 1000.49,
+        "evap_10": 1182.04,
+        "evap_13": null
+      },
+      "cond_45": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": 593.01,
+        "evap_-5": 712.18,
+        "evap_0": 844.11,
+        "evap_5": 995.07,
+        "evap_10": 1174.82,
+        "evap_13": null
+      },
+      "cond_50": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": 702.6,
+        "evap_0": 836.01,
+        "evap_5": 987.63,
+        "evap_10": 1166.59,
+        "evap_13": null
+      },
+      "cond_55": {
+        "evap_-20": null,
+        "evap_-15": null,
+        "evap_-10": null,
+        "evap_-5": null,
+        "evap_0": 822.32,
+        "evap_5": 974.8,
+        "evap_10": 1153.43,
+        "evap_13": null
+      }
+    }
+  },
+  "RCH54C4LB6CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 5.17,
+        "evap_-24": 6.68,
+        "evap_-19": 8.38,
+        "evap_-14": 10.3,
+        "evap_-9": 12.47,
+        "evap_-4": 15,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 4.69,
+        "evap_-24": 6.11,
+        "evap_-19": 7.69,
+        "evap_-14": 9.46,
+        "evap_-9": 11.46,
+        "evap_-4": 13.76,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 4.29,
+        "evap_-24": 5.63,
+        "evap_-19": 7.13,
+        "evap_-14": 8.79,
+        "evap_-9": 10.65,
+        "evap_-4": 12.77,
+        "evap_1": 15.24,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 3.93,
+        "evap_-24": 5.21,
+        "evap_-19": 6.64,
+        "evap_-14": 8.22,
+        "evap_-9": 9.98,
+        "evap_-4": 11.96,
+        "evap_1": 14.25,
+        "evap_6": 17.02,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 3.6,
+        "evap_-24": 4.83,
+        "evap_-19": 6.21,
+        "evap_-14": 7.72,
+        "evap_-9": 9.39,
+        "evap_-4": 11.27,
+        "evap_1": 13.43,
+        "evap_6": 15.99,
+        "evap_11": 19.18,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 4.47,
+        "evap_-19": 5.79,
+        "evap_-14": 7.25,
+        "evap_-9": 8.86,
+        "evap_-4": 10.65,
+        "evap_1": 12.69,
+        "evap_6": 15.1,
+        "evap_11": 18.06,
+        "evap_16": 21.85
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 5.37,
+        "evap_-14": 6.78,
+        "evap_-9": 8.33,
+        "evap_-4": 10.05,
+        "evap_1": 11.99,
+        "evap_6": 14.27,
+        "evap_11": 17.04,
+        "evap_16": 20.55
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 6.29,
+        "evap_-9": 7.78,
+        "evap_-4": 9.43,
+        "evap_1": 11.29,
+        "evap_6": 13.44,
+        "evap_11": 16.04,
+        "evap_16": 19.31
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 7.18,
+        "evap_-4": 8.76,
+        "evap_1": 10.53,
+        "evap_6": 12.57,
+        "evap_11": 15.01,
+        "evap_16": 18.06
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 8.01,
+        "evap_1": 9.68,
+        "evap_6": 11.6,
+        "evap_11": 13.89,
+        "evap_16": 16.71
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 8.72,
+        "evap_6": 10.51,
+        "evap_11": 12.62,
+        "evap_16": 15.22
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 9.24,
+        "evap_11": 11.17,
+        "evap_16": 13.52
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 1.14,
+        "evap_-24": 1.17,
+        "evap_-19": 1.2,
+        "evap_-14": 1.22,
+        "evap_-9": 1.25,
+        "evap_-4": 1.27,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 1.52,
+        "evap_-24": 1.54,
+        "evap_-19": 1.55,
+        "evap_-14": 1.57,
+        "evap_-9": 1.58,
+        "evap_-4": 1.6,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 1.87,
+        "evap_-24": 1.88,
+        "evap_-19": 1.88,
+        "evap_-14": 1.88,
+        "evap_-9": 1.89,
+        "evap_-4": 1.9,
+        "evap_1": 1.91,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 2.21,
+        "evap_-24": 2.2,
+        "evap_-19": 2.19,
+        "evap_-14": 2.18,
+        "evap_-9": 2.18,
+        "evap_-4": 2.18,
+        "evap_1": 2.18,
+        "evap_6": 2.2,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 2.56,
+        "evap_-24": 2.53,
+        "evap_-19": 2.51,
+        "evap_-14": 2.49,
+        "evap_-9": 2.47,
+        "evap_-4": 2.46,
+        "evap_1": 2.46,
+        "evap_6": 2.46,
+        "evap_11": 2.48,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 2.88,
+        "evap_-19": 2.84,
+        "evap_-14": 2.81,
+        "evap_-9": 2.78,
+        "evap_-4": 2.76,
+        "evap_1": 2.75,
+        "evap_6": 2.74,
+        "evap_11": 2.75,
+        "evap_16": 2.78
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 3.21,
+        "evap_-14": 3.16,
+        "evap_-9": 3.12,
+        "evap_-4": 3.09,
+        "evap_1": 3.07,
+        "evap_6": 3.06,
+        "evap_11": 3.06,
+        "evap_16": 3.08
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 3.56,
+        "evap_-9": 3.51,
+        "evap_-4": 3.46,
+        "evap_1": 3.43,
+        "evap_6": 3.41,
+        "evap_11": 3.41,
+        "evap_16": 3.42
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 3.96,
+        "evap_-4": 3.91,
+        "evap_1": 3.86,
+        "evap_6": 3.83,
+        "evap_11": 3.82,
+        "evap_16": 3.83
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 4.43,
+        "evap_1": 4.37,
+        "evap_6": 4.33,
+        "evap_11": 4.31,
+        "evap_16": 4.31
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 4.98,
+        "evap_6": 4.93,
+        "evap_11": 4.89,
+        "evap_16": 4.88
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 5.63,
+        "evap_11": 5.59,
+        "evap_16": 5.57
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 89.45,
+        "evap_-24": 114.31,
+        "evap_-19": 141.87,
+        "evap_-14": 172.49,
+        "evap_-9": 206.93,
+        "evap_-4": 246.59,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 84.47,
+        "evap_-24": 108.68,
+        "evap_-19": 135.36,
+        "evap_-14": 164.76,
+        "evap_-9": 197.52,
+        "evap_-4": 234.82,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 80.42,
+        "evap_-24": 104.29,
+        "evap_-19": 130.49,
+        "evap_-14": 159.18,
+        "evap_-9": 190.84,
+        "evap_-4": 226.54,
+        "evap_1": 268.06,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 76.99,
+        "evap_-24": 100.79,
+        "evap_-19": 126.83,
+        "evap_-14": 155.21,
+        "evap_-9": 186.3,
+        "evap_-4": 221.02,
+        "evap_1": 260.97,
+        "evap_6": 308.89,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 73.89,
+        "evap_-24": 97.8,
+        "evap_-19": 123.93,
+        "evap_-14": 152.33,
+        "evap_-9": 183.27,
+        "evap_-4": 217.54,
+        "evap_1": 256.56,
+        "evap_6": 302.87,
+        "evap_11": 360.23,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 94.96,
+        "evap_-19": 121.37,
+        "evap_-14": 150.03,
+        "evap_-9": 181.13,
+        "evap_-4": 215.35,
+        "evap_1": 253.97,
+        "evap_6": 299.32,
+        "evap_11": 354.92,
+        "evap_16": 426.17
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 118.71,
+        "evap_-14": 147.78,
+        "evap_-9": 179.26,
+        "evap_-4": 213.73,
+        "evap_1": 252.34,
+        "evap_6": 297.24,
+        "evap_11": 351.72,
+        "evap_16": 420.89
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 145.07,
+        "evap_-9": 177.06,
+        "evap_-4": 211.96,
+        "evap_1": 250.82,
+        "evap_6": 295.62,
+        "evap_11": 349.46,
+        "evap_16": 417.16
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 173.89,
+        "evap_-4": 209.31,
+        "evap_1": 248.55,
+        "evap_6": 293.48,
+        "evap_11": 346.97,
+        "evap_16": 413.64
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 205.04,
+        "evap_1": 244.69,
+        "evap_6": 289.81,
+        "evap_11": 343.11,
+        "evap_16": 408.97
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 238.36,
+        "evap_6": 283.6,
+        "evap_11": 336.7,
+        "evap_16": 401.81
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 273.87,
+        "evap_11": 326.59,
+        "evap_16": 390.82
+      }
+    }
+  },
+  "RCH58C4LB6CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 5.6,
+        "evap_-24": 7.24,
+        "evap_-19": 9.09,
+        "evap_-14": 11.16,
+        "evap_-9": 13.52,
+        "evap_-4": 16.26,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 5.08,
+        "evap_-24": 6.62,
+        "evap_-19": 8.34,
+        "evap_-14": 10.26,
+        "evap_-9": 12.42,
+        "evap_-4": 14.91,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 4.65,
+        "evap_-24": 6.1,
+        "evap_-19": 7.72,
+        "evap_-14": 9.53,
+        "evap_-9": 11.54,
+        "evap_-4": 13.84,
+        "evap_1": 16.52,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 4.26,
+        "evap_-24": 5.65,
+        "evap_-19": 7.2,
+        "evap_-14": 8.91,
+        "evap_-9": 10.82,
+        "evap_-4": 12.96,
+        "evap_1": 15.45,
+        "evap_6": 18.45,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 3.91,
+        "evap_-24": 5.24,
+        "evap_-19": 6.73,
+        "evap_-14": 8.37,
+        "evap_-9": 10.18,
+        "evap_-4": 12.22,
+        "evap_1": 14.55,
+        "evap_6": 17.33,
+        "evap_11": 20.79,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 4.84,
+        "evap_-19": 6.28,
+        "evap_-14": 7.86,
+        "evap_-9": 9.6,
+        "evap_-4": 11.54,
+        "evap_1": 13.75,
+        "evap_6": 16.36,
+        "evap_11": 19.57,
+        "evap_16": 23.69
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 5.82,
+        "evap_-14": 7.35,
+        "evap_-9": 9.03,
+        "evap_-4": 10.89,
+        "evap_1": 13,
+        "evap_6": 15.46,
+        "evap_11": 18.47,
+        "evap_16": 22.28
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 6.82,
+        "evap_-9": 8.43,
+        "evap_-4": 10.22,
+        "evap_1": 12.23,
+        "evap_6": 14.57,
+        "evap_11": 17.39,
+        "evap_16": 20.94
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 7.78,
+        "evap_-4": 9.49,
+        "evap_1": 11.41,
+        "evap_6": 13.62,
+        "evap_11": 16.27,
+        "evap_16": 19.58
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 8.68,
+        "evap_1": 10.49,
+        "evap_6": 12.58,
+        "evap_11": 15.05,
+        "evap_16": 18.12
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 9.45,
+        "evap_6": 11.39,
+        "evap_11": 13.68,
+        "evap_16": 16.5
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 10.02,
+        "evap_11": 12.11,
+        "evap_16": 14.65
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 1.23,
+        "evap_-24": 1.26,
+        "evap_-19": 1.29,
+        "evap_-14": 1.32,
+        "evap_-9": 1.35,
+        "evap_-4": 1.37,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 1.64,
+        "evap_-24": 1.66,
+        "evap_-19": 1.68,
+        "evap_-14": 1.69,
+        "evap_-9": 1.71,
+        "evap_-4": 1.73,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 2.02,
+        "evap_-24": 2.02,
+        "evap_-19": 2.03,
+        "evap_-14": 2.03,
+        "evap_-9": 2.04,
+        "evap_-4": 2.05,
+        "evap_1": 2.06,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 2.39,
+        "evap_-24": 2.38,
+        "evap_-19": 2.37,
+        "evap_-14": 2.36,
+        "evap_-9": 2.35,
+        "evap_-4": 2.35,
+        "evap_1": 2.36,
+        "evap_6": 2.37,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 2.76,
+        "evap_-24": 2.73,
+        "evap_-19": 2.71,
+        "evap_-14": 2.68,
+        "evap_-9": 2.67,
+        "evap_-4": 2.66,
+        "evap_1": 2.65,
+        "evap_6": 2.66,
+        "evap_11": 2.68,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 3.11,
+        "evap_-19": 3.07,
+        "evap_-14": 3.03,
+        "evap_-9": 3,
+        "evap_-4": 2.98,
+        "evap_1": 2.96,
+        "evap_6": 2.96,
+        "evap_11": 2.97,
+        "evap_16": 3
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 3.46,
+        "evap_-14": 3.41,
+        "evap_-9": 3.37,
+        "evap_-4": 3.33,
+        "evap_1": 3.31,
+        "evap_6": 3.3,
+        "evap_11": 3.3,
+        "evap_16": 3.32
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 3.85,
+        "evap_-9": 3.79,
+        "evap_-4": 3.74,
+        "evap_1": 3.71,
+        "evap_6": 3.69,
+        "evap_11": 3.68,
+        "evap_16": 3.69
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 4.28,
+        "evap_-4": 4.22,
+        "evap_1": 4.17,
+        "evap_6": 4.14,
+        "evap_11": 4.13,
+        "evap_16": 4.13
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 4.78,
+        "evap_1": 4.72,
+        "evap_6": 4.68,
+        "evap_11": 4.65,
+        "evap_16": 4.65
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 5.37,
+        "evap_6": 5.32,
+        "evap_11": 5.28,
+        "evap_16": 5.27
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 6.08,
+        "evap_11": 6.03,
+        "evap_16": 6.01
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 96.96,
+        "evap_-24": 123.91,
+        "evap_-19": 153.78,
+        "evap_-14": 186.98,
+        "evap_-9": 224.31,
+        "evap_-4": 267.29,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 91.56,
+        "evap_-24": 117.81,
+        "evap_-19": 146.72,
+        "evap_-14": 178.6,
+        "evap_-9": 214.1,
+        "evap_-4": 254.54,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 87.17,
+        "evap_-24": 113.05,
+        "evap_-19": 141.45,
+        "evap_-14": 172.54,
+        "evap_-9": 206.87,
+        "evap_-4": 245.57,
+        "evap_1": 290.57,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 83.46,
+        "evap_-24": 109.25,
+        "evap_-19": 137.48,
+        "evap_-14": 168.24,
+        "evap_-9": 201.95,
+        "evap_-4": 239.58,
+        "evap_1": 282.89,
+        "evap_6": 334.83,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 80.1,
+        "evap_-24": 106.01,
+        "evap_-19": 134.34,
+        "evap_-14": 165.12,
+        "evap_-9": 198.66,
+        "evap_-4": 235.8,
+        "evap_1": 278.1,
+        "evap_6": 328.3,
+        "evap_11": 390.48,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 102.93,
+        "evap_-19": 131.57,
+        "evap_-14": 162.63,
+        "evap_-9": 196.34,
+        "evap_-4": 233.43,
+        "evap_1": 275.29,
+        "evap_6": 324.45,
+        "evap_11": 384.72,
+        "evap_16": 461.96
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 128.68,
+        "evap_-14": 160.19,
+        "evap_-9": 194.32,
+        "evap_-4": 231.68,
+        "evap_1": 273.53,
+        "evap_6": 322.2,
+        "evap_11": 381.25,
+        "evap_16": 456.23
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 157.25,
+        "evap_-9": 191.92,
+        "evap_-4": 229.76,
+        "evap_1": 271.88,
+        "evap_6": 320.45,
+        "evap_11": 378.8,
+        "evap_16": 452.19
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 188.49,
+        "evap_-4": 226.88,
+        "evap_1": 269.42,
+        "evap_6": 318.12,
+        "evap_11": 376.11,
+        "evap_16": 448.37
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 222.25,
+        "evap_1": 265.23,
+        "evap_6": 314.14,
+        "evap_11": 371.92,
+        "evap_16": 443.31
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 258.38,
+        "evap_6": 307.42,
+        "evap_11": 364.98,
+        "evap_16": 435.55
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 296.87,
+        "evap_11": 354.01,
+        "evap_16": 423.63
+      }
+    }
+  },
+  "RCH74C4LB7CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 7.14,
+        "evap_-24": 9.22,
+        "evap_-19": 11.57,
+        "evap_-14": 14.22,
+        "evap_-9": 17.22,
+        "evap_-4": 20.71,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 6.48,
+        "evap_-24": 8.43,
+        "evap_-19": 10.62,
+        "evap_-14": 13.07,
+        "evap_-9": 15.83,
+        "evap_-4": 18.99,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 5.92,
+        "evap_-24": 7.77,
+        "evap_-19": 9.84,
+        "evap_-14": 12.14,
+        "evap_-9": 14.71,
+        "evap_-4": 17.63,
+        "evap_1": 21.05,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 5.43,
+        "evap_-24": 7.2,
+        "evap_-19": 9.17,
+        "evap_-14": 11.35,
+        "evap_-9": 13.78,
+        "evap_-4": 16.52,
+        "evap_1": 19.68,
+        "evap_6": 23.5,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 4.98,
+        "evap_-24": 6.68,
+        "evap_-19": 8.57,
+        "evap_-14": 10.66,
+        "evap_-9": 12.97,
+        "evap_-4": 15.57,
+        "evap_1": 18.54,
+        "evap_6": 22.08,
+        "evap_11": 26.49,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 6.17,
+        "evap_-19": 8,
+        "evap_-14": 10.01,
+        "evap_-9": 12.23,
+        "evap_-4": 14.71,
+        "evap_1": 17.52,
+        "evap_6": 20.85,
+        "evap_11": 24.94,
+        "evap_16": 30.17
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 7.42,
+        "evap_-14": 9.36,
+        "evap_-9": 11.5,
+        "evap_-4": 13.88,
+        "evap_1": 16.56,
+        "evap_6": 19.7,
+        "evap_11": 23.53,
+        "evap_16": 28.38
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 8.68,
+        "evap_-9": 10.74,
+        "evap_-4": 13.02,
+        "evap_1": 15.58,
+        "evap_6": 18.56,
+        "evap_11": 22.15,
+        "evap_16": 26.67
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 9.91,
+        "evap_-4": 12.09,
+        "evap_1": 14.54,
+        "evap_6": 17.36,
+        "evap_11": 20.73,
+        "evap_16": 24.94
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 11.06,
+        "evap_1": 13.37,
+        "evap_6": 16.02,
+        "evap_11": 19.18,
+        "evap_16": 23.08
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 12.04,
+        "evap_6": 14.51,
+        "evap_11": 17.43,
+        "evap_16": 21.02
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 12.77,
+        "evap_11": 15.42,
+        "evap_16": 18.67
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 1.55,
+        "evap_-24": 1.59,
+        "evap_-19": 1.63,
+        "evap_-14": 1.66,
+        "evap_-9": 1.7,
+        "evap_-4": 1.73,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 2.07,
+        "evap_-24": 2.09,
+        "evap_-19": 2.11,
+        "evap_-14": 2.13,
+        "evap_-9": 2.16,
+        "evap_-4": 2.18,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 2.55,
+        "evap_-24": 2.55,
+        "evap_-19": 2.56,
+        "evap_-14": 2.56,
+        "evap_-9": 2.57,
+        "evap_-4": 2.58,
+        "evap_1": 2.6,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 3.01,
+        "evap_-24": 3,
+        "evap_-19": 2.98,
+        "evap_-14": 2.97,
+        "evap_-9": 2.97,
+        "evap_-4": 2.97,
+        "evap_1": 2.97,
+        "evap_6": 2.99,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 3.48,
+        "evap_-24": 3.45,
+        "evap_-19": 3.41,
+        "evap_-14": 3.39,
+        "evap_-9": 3.36,
+        "evap_-4": 3.35,
+        "evap_1": 3.35,
+        "evap_6": 3.35,
+        "evap_11": 3.38,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 3.92,
+        "evap_-19": 3.87,
+        "evap_-14": 3.82,
+        "evap_-9": 3.78,
+        "evap_-4": 3.75,
+        "evap_1": 3.74,
+        "evap_6": 3.74,
+        "evap_11": 3.75,
+        "evap_16": 3.78
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 4.37,
+        "evap_-14": 4.3,
+        "evap_-9": 4.25,
+        "evap_-4": 4.2,
+        "evap_1": 4.17,
+        "evap_6": 4.16,
+        "evap_11": 4.16,
+        "evap_16": 4.19
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 4.85,
+        "evap_-9": 4.78,
+        "evap_-4": 4.72,
+        "evap_1": 4.67,
+        "evap_6": 4.65,
+        "evap_11": 4.64,
+        "evap_16": 4.66
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 5.39,
+        "evap_-4": 5.32,
+        "evap_1": 5.26,
+        "evap_6": 5.22,
+        "evap_11": 5.2,
+        "evap_16": 5.21
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 6.03,
+        "evap_1": 5.95,
+        "evap_6": 5.9,
+        "evap_11": 5.87,
+        "evap_16": 5.87
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 6.77,
+        "evap_6": 6.71,
+        "evap_11": 6.66,
+        "evap_16": 6.65
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 7.66,
+        "evap_11": 7.61,
+        "evap_16": 7.58
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 123.52,
+        "evap_-24": 157.86,
+        "evap_-19": 195.91,
+        "evap_-14": 238.2,
+        "evap_-9": 285.76,
+        "evap_-4": 340.52,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 116.65,
+        "evap_-24": 150.08,
+        "evap_-19": 186.92,
+        "evap_-14": 227.53,
+        "evap_-9": 272.75,
+        "evap_-4": 324.27,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 111.05,
+        "evap_-24": 144.02,
+        "evap_-19": 180.19,
+        "evap_-14": 219.81,
+        "evap_-9": 263.54,
+        "evap_-4": 312.84,
+        "evap_1": 370.17,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 106.32,
+        "evap_-24": 139.18,
+        "evap_-19": 175.14,
+        "evap_-14": 214.33,
+        "evap_-9": 257.27,
+        "evap_-4": 305.22,
+        "evap_1": 360.38,
+        "evap_6": 426.55,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 102.04,
+        "evap_-24": 135.05,
+        "evap_-19": 171.14,
+        "evap_-14": 210.35,
+        "evap_-9": 253.08,
+        "evap_-4": 300.4,
+        "evap_1": 354.29,
+        "evap_6": 418.24,
+        "evap_11": 497.45,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 131.13,
+        "evap_-19": 167.61,
+        "evap_-14": 207.18,
+        "evap_-9": 250.13,
+        "evap_-4": 297.38,
+        "evap_1": 350.71,
+        "evap_6": 413.34,
+        "evap_11": 490.12,
+        "evap_16": 588.51
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 163.93,
+        "evap_-14": 204.07,
+        "evap_-9": 247.55,
+        "evap_-4": 295.15,
+        "evap_1": 348.46,
+        "evap_6": 410.46,
+        "evap_11": 485.69,
+        "evap_16": 581.21
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 200.32,
+        "evap_-9": 244.5,
+        "evap_-4": 292.7,
+        "evap_1": 346.36,
+        "evap_6": 408.23,
+        "evap_11": 482.57,
+        "evap_16": 576.06
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 240.12,
+        "evap_-4": 289.03,
+        "evap_1": 343.23,
+        "evap_6": 405.27,
+        "evap_11": 479.14,
+        "evap_16": 571.2
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 283.14,
+        "evap_1": 337.89,
+        "evap_6": 400.2,
+        "evap_11": 473.81,
+        "evap_16": 564.76
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 329.16,
+        "evap_6": 391.63,
+        "evap_11": 464.96,
+        "evap_16": 554.87
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 378.2,
+        "evap_11": 450.99,
+        "evap_16": 539.68
+      }
+    }
+  },
+  "RCH94C4LB7CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 9.47,
+        "evap_-24": 12.24,
+        "evap_-19": 15.36,
+        "evap_-14": 18.86,
+        "evap_-9": 22.85,
+        "evap_-4": 27.48,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 8.59,
+        "evap_-24": 11.19,
+        "evap_-19": 14.09,
+        "evap_-14": 17.34,
+        "evap_-9": 21,
+        "evap_-4": 25.2,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 7.85,
+        "evap_-24": 10.31,
+        "evap_-19": 13.05,
+        "evap_-14": 16.1,
+        "evap_-9": 19.51,
+        "evap_-4": 23.39,
+        "evap_1": 27.93,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 7.2,
+        "evap_-24": 9.55,
+        "evap_-19": 12.17,
+        "evap_-14": 15.06,
+        "evap_-9": 18.28,
+        "evap_-4": 21.91,
+        "evap_1": 26.12,
+        "evap_6": 31.18,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 6.6,
+        "evap_-24": 8.86,
+        "evap_-19": 11.37,
+        "evap_-14": 14.14,
+        "evap_-9": 17.21,
+        "evap_-4": 20.65,
+        "evap_1": 24.6,
+        "evap_6": 29.3,
+        "evap_11": 35.14,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 8.19,
+        "evap_-19": 10.61,
+        "evap_-14": 13.28,
+        "evap_-9": 16.23,
+        "evap_-4": 19.51,
+        "evap_1": 23.25,
+        "evap_6": 27.66,
+        "evap_11": 33.08,
+        "evap_16": 40.03
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 9.84,
+        "evap_-14": 12.42,
+        "evap_-9": 15.26,
+        "evap_-4": 18.41,
+        "evap_1": 21.97,
+        "evap_6": 26.14,
+        "evap_11": 31.21,
+        "evap_16": 37.65
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 11.52,
+        "evap_-9": 14.25,
+        "evap_-4": 17.27,
+        "evap_1": 20.68,
+        "evap_6": 24.62,
+        "evap_11": 29.39,
+        "evap_16": 35.38
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 13.15,
+        "evap_-4": 16.04,
+        "evap_1": 19.29,
+        "evap_6": 23.03,
+        "evap_11": 27.5,
+        "evap_16": 33.08
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 14.67,
+        "evap_1": 17.74,
+        "evap_6": 21.26,
+        "evap_11": 25.45,
+        "evap_16": 30.62
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 15.97,
+        "evap_6": 19.25,
+        "evap_11": 23.12,
+        "evap_16": 27.88
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 16.94,
+        "evap_11": 20.46,
+        "evap_16": 24.76
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 2,
+        "evap_-24": 2.06,
+        "evap_-19": 2.11,
+        "evap_-14": 2.15,
+        "evap_-9": 2.19,
+        "evap_-4": 2.24,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 2.67,
+        "evap_-24": 2.7,
+        "evap_-19": 2.73,
+        "evap_-14": 2.76,
+        "evap_-9": 2.79,
+        "evap_-4": 2.82,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 3.29,
+        "evap_-24": 3.3,
+        "evap_-19": 3.31,
+        "evap_-14": 3.32,
+        "evap_-9": 3.32,
+        "evap_-4": 3.34,
+        "evap_1": 3.36,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 3.89,
+        "evap_-24": 3.88,
+        "evap_-19": 3.86,
+        "evap_-14": 3.84,
+        "evap_-9": 3.84,
+        "evap_-4": 3.84,
+        "evap_1": 3.85,
+        "evap_6": 3.87,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 4.5,
+        "evap_-24": 4.46,
+        "evap_-19": 4.41,
+        "evap_-14": 4.38,
+        "evap_-9": 4.35,
+        "evap_-4": 4.33,
+        "evap_1": 4.33,
+        "evap_6": 4.34,
+        "evap_11": 4.37,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 5.07,
+        "evap_-19": 5,
+        "evap_-14": 4.94,
+        "evap_-9": 4.89,
+        "evap_-4": 4.85,
+        "evap_1": 4.83,
+        "evap_6": 4.83,
+        "evap_11": 4.85,
+        "evap_16": 4.89
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 5.65,
+        "evap_-14": 5.56,
+        "evap_-9": 5.49,
+        "evap_-4": 5.43,
+        "evap_1": 5.4,
+        "evap_6": 5.38,
+        "evap_11": 5.39,
+        "evap_16": 5.42
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 6.27,
+        "evap_-9": 6.18,
+        "evap_-4": 6.1,
+        "evap_1": 6.04,
+        "evap_6": 6.01,
+        "evap_11": 6,
+        "evap_16": 6.02
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 6.97,
+        "evap_-4": 6.88,
+        "evap_1": 6.8,
+        "evap_6": 6.75,
+        "evap_11": 6.73,
+        "evap_16": 6.74
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 7.79,
+        "evap_1": 7.7,
+        "evap_6": 7.63,
+        "evap_11": 7.59,
+        "evap_16": 7.58
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 8.76,
+        "evap_6": 8.67,
+        "evap_11": 8.62,
+        "evap_16": 8.6
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 9.91,
+        "evap_11": 9.84,
+        "evap_16": 9.8
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 163.88,
+        "evap_-24": 209.43,
+        "evap_-19": 259.91,
+        "evap_-14": 316.01,
+        "evap_-9": 379.11,
+        "evap_-4": 451.77,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 154.76,
+        "evap_-24": 199.11,
+        "evap_-19": 247.98,
+        "evap_-14": 301.86,
+        "evap_-9": 361.86,
+        "evap_-4": 430.21,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 147.33,
+        "evap_-24": 191.07,
+        "evap_-19": 239.06,
+        "evap_-14": 291.62,
+        "evap_-9": 349.64,
+        "evap_-4": 415.04,
+        "evap_1": 491.1,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 141.06,
+        "evap_-24": 184.65,
+        "evap_-19": 232.35,
+        "evap_-14": 284.35,
+        "evap_-9": 341.32,
+        "evap_-4": 404.93,
+        "evap_1": 478.12,
+        "evap_6": 565.9,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 135.38,
+        "evap_-24": 179.17,
+        "evap_-19": 227.06,
+        "evap_-14": 279.08,
+        "evap_-9": 335.76,
+        "evap_-4": 398.54,
+        "evap_1": 470.03,
+        "evap_6": 554.88,
+        "evap_11": 659.96,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 173.97,
+        "evap_-19": 222.37,
+        "evap_-14": 274.86,
+        "evap_-9": 331.84,
+        "evap_-4": 394.53,
+        "evap_1": 465.28,
+        "evap_6": 548.37,
+        "evap_11": 650.24,
+        "evap_16": 780.78
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 217.48,
+        "evap_-14": 270.74,
+        "evap_-9": 328.42,
+        "evap_-4": 391.57,
+        "evap_1": 462.3,
+        "evap_6": 544.56,
+        "evap_11": 644.37,
+        "evap_16": 771.1
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 265.77,
+        "evap_-9": 324.38,
+        "evap_-4": 388.33,
+        "evap_1": 459.51,
+        "evap_6": 541.6,
+        "evap_11": 640.22,
+        "evap_16": 764.26
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 318.57,
+        "evap_-4": 383.46,
+        "evap_1": 455.36,
+        "evap_6": 537.67,
+        "evap_11": 635.68,
+        "evap_16": 757.81
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 375.64,
+        "evap_1": 448.28,
+        "evap_6": 530.94,
+        "evap_11": 628.6,
+        "evap_16": 749.26
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 436.69,
+        "evap_6": 519.58,
+        "evap_11": 616.86,
+        "evap_16": 736.15
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 501.75,
+        "evap_11": 598.33,
+        "evap_16": 716
+      }
+    }
+  },
+  "RCH128C4LB7CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 12.43,
+        "evap_-24": 16.06,
+        "evap_-19": 20.15,
+        "evap_-14": 24.76,
+        "evap_-9": 29.99,
+        "evap_-4": 36.07,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 11.28,
+        "evap_-24": 14.68,
+        "evap_-19": 18.5,
+        "evap_-14": 22.76,
+        "evap_-9": 27.56,
+        "evap_-4": 33.08,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 10.31,
+        "evap_-24": 13.53,
+        "evap_-19": 17.13,
+        "evap_-14": 21.14,
+        "evap_-9": 25.61,
+        "evap_-4": 30.7,
+        "evap_1": 36.65,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 9.45,
+        "evap_-24": 12.54,
+        "evap_-19": 15.97,
+        "evap_-14": 19.77,
+        "evap_-9": 23.99,
+        "evap_-4": 28.76,
+        "evap_1": 34.28,
+        "evap_6": 40.92,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 8.66,
+        "evap_-24": 11.62,
+        "evap_-19": 14.92,
+        "evap_-14": 18.56,
+        "evap_-9": 22.59,
+        "evap_-4": 27.1,
+        "evap_1": 32.28,
+        "evap_6": 38.45,
+        "evap_11": 46.12,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 10.75,
+        "evap_-19": 13.92,
+        "evap_-14": 17.43,
+        "evap_-9": 21.3,
+        "evap_-4": 25.61,
+        "evap_1": 30.51,
+        "evap_6": 36.3,
+        "evap_11": 43.42,
+        "evap_16": 52.54
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 12.92,
+        "evap_-14": 16.3,
+        "evap_-9": 20.03,
+        "evap_-4": 24.16,
+        "evap_1": 28.84,
+        "evap_6": 34.3,
+        "evap_11": 40.97,
+        "evap_16": 49.42
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 15.12,
+        "evap_-9": 18.7,
+        "evap_-4": 22.67,
+        "evap_1": 27.14,
+        "evap_6": 32.32,
+        "evap_11": 38.58,
+        "evap_16": 46.44
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 17.26,
+        "evap_-4": 21.06,
+        "evap_1": 25.31,
+        "evap_6": 30.22,
+        "evap_11": 36.1,
+        "evap_16": 43.42
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 19.25,
+        "evap_1": 23.28,
+        "evap_6": 27.9,
+        "evap_11": 33.4,
+        "evap_16": 40.19
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 20.96,
+        "evap_6": 25.26,
+        "evap_11": 30.35,
+        "evap_16": 36.6
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 22.23,
+        "evap_11": 26.85,
+        "evap_16": 32.5
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 2.59,
+        "evap_-24": 2.67,
+        "evap_-19": 2.73,
+        "evap_-14": 2.79,
+        "evap_-9": 2.85,
+        "evap_-4": 2.9,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 3.47,
+        "evap_-24": 3.51,
+        "evap_-19": 3.55,
+        "evap_-14": 3.58,
+        "evap_-9": 3.62,
+        "evap_-4": 3.66,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 4.27,
+        "evap_-24": 4.29,
+        "evap_-19": 4.29,
+        "evap_-14": 4.3,
+        "evap_-9": 4.32,
+        "evap_-4": 4.34,
+        "evap_1": 4.37,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 5.05,
+        "evap_-24": 5.03,
+        "evap_-19": 5.01,
+        "evap_-14": 4.99,
+        "evap_-9": 4.98,
+        "evap_-4": 4.98,
+        "evap_1": 4.99,
+        "evap_6": 5.02,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 5.84,
+        "evap_-24": 5.78,
+        "evap_-19": 5.73,
+        "evap_-14": 5.68,
+        "evap_-9": 5.65,
+        "evap_-4": 5.62,
+        "evap_1": 5.62,
+        "evap_6": 5.63,
+        "evap_11": 5.67,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 6.58,
+        "evap_-19": 6.49,
+        "evap_-14": 6.41,
+        "evap_-9": 6.35,
+        "evap_-4": 6.3,
+        "evap_1": 6.28,
+        "evap_6": 6.27,
+        "evap_11": 6.3,
+        "evap_16": 6.35
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 7.33,
+        "evap_-14": 7.22,
+        "evap_-9": 7.13,
+        "evap_-4": 7.05,
+        "evap_1": 7.01,
+        "evap_6": 6.98,
+        "evap_11": 6.99,
+        "evap_16": 7.03
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 8.14,
+        "evap_-9": 8.02,
+        "evap_-4": 7.92,
+        "evap_1": 7.84,
+        "evap_6": 7.8,
+        "evap_11": 7.79,
+        "evap_16": 7.82
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 9.05,
+        "evap_-4": 8.93,
+        "evap_1": 8.83,
+        "evap_6": 8.76,
+        "evap_11": 8.73,
+        "evap_16": 8.74
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 10.12,
+        "evap_1": 9.99,
+        "evap_6": 9.9,
+        "evap_11": 9.85,
+        "evap_16": 9.85
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 11.37,
+        "evap_6": 11.26,
+        "evap_11": 11.19,
+        "evap_16": 11.16
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 12.86,
+        "evap_11": 12.77,
+        "evap_16": 12.72
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 215.09,
+        "evap_-24": 274.88,
+        "evap_-19": 341.13,
+        "evap_-14": 414.77,
+        "evap_-9": 497.59,
+        "evap_-4": 592.94,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 203.12,
+        "evap_-24": 261.33,
+        "evap_-19": 325.48,
+        "evap_-14": 396.19,
+        "evap_-9": 474.94,
+        "evap_-4": 564.65,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 193.38,
+        "evap_-24": 250.78,
+        "evap_-19": 313.77,
+        "evap_-14": 382.75,
+        "evap_-9": 458.9,
+        "evap_-4": 544.74,
+        "evap_1": 644.57,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 185.14,
+        "evap_-24": 242.35,
+        "evap_-19": 304.97,
+        "evap_-14": 373.2,
+        "evap_-9": 447.98,
+        "evap_-4": 531.47,
+        "evap_1": 627.53,
+        "evap_6": 742.75,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 177.68,
+        "evap_-24": 235.16,
+        "evap_-19": 298.01,
+        "evap_-14": 366.29,
+        "evap_-9": 440.69,
+        "evap_-4": 523.08,
+        "evap_1": 616.92,
+        "evap_6": 728.28,
+        "evap_11": 866.2,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 228.34,
+        "evap_-19": 291.86,
+        "evap_-14": 360.76,
+        "evap_-9": 435.54,
+        "evap_-4": 517.82,
+        "evap_1": 610.68,
+        "evap_6": 719.74,
+        "evap_11": 853.43,
+        "evap_16": 1024.77
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 285.45,
+        "evap_-14": 355.35,
+        "evap_-9": 431.06,
+        "evap_-4": 513.94,
+        "evap_1": 606.77,
+        "evap_6": 714.73,
+        "evap_11": 845.73,
+        "evap_16": 1012.07
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 348.82,
+        "evap_-9": 425.74,
+        "evap_-4": 509.68,
+        "evap_1": 603.11,
+        "evap_6": 710.85,
+        "evap_11": 840.29,
+        "evap_16": 1003.1
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 418.12,
+        "evap_-4": 503.29,
+        "evap_1": 597.67,
+        "evap_6": 705.7,
+        "evap_11": 834.33,
+        "evap_16": 994.62
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 493.02,
+        "evap_1": 588.37,
+        "evap_6": 696.86,
+        "evap_11": 825.04,
+        "evap_16": 983.4
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 573.16,
+        "evap_6": 681.95,
+        "evap_11": 809.63,
+        "evap_16": 966.19
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 658.55,
+        "evap_11": 785.3,
+        "evap_16": 939.75
+      }
+    }
+  },
+  "RCH145C4LB7CA": {
+    "cooling_capacity": {
+      "cond_10": {
+        "evap_-29": 14,
+        "evap_-24": 18.1,
+        "evap_-19": 22.71,
+        "evap_-14": 27.9,
+        "evap_-9": 33.8,
+        "evap_-4": 40.65,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 12.71,
+        "evap_-24": 16.55,
+        "evap_-19": 20.85,
+        "evap_-14": 25.65,
+        "evap_-9": 31.06,
+        "evap_-4": 37.28,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 11.62,
+        "evap_-24": 15.25,
+        "evap_-19": 19.31,
+        "evap_-14": 23.82,
+        "evap_-9": 28.86,
+        "evap_-4": 34.6,
+        "evap_1": 41.31,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 10.65,
+        "evap_-24": 14.13,
+        "evap_-19": 18,
+        "evap_-14": 22.28,
+        "evap_-9": 27.04,
+        "evap_-4": 32.41,
+        "evap_1": 38.63,
+        "evap_6": 46.12,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 9.76,
+        "evap_-24": 13.1,
+        "evap_-19": 16.82,
+        "evap_-14": 20.92,
+        "evap_-9": 25.46,
+        "evap_-4": 30.55,
+        "evap_1": 36.38,
+        "evap_6": 43.34,
+        "evap_11": 51.97,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 12.11,
+        "evap_-19": 15.69,
+        "evap_-14": 19.65,
+        "evap_-9": 24,
+        "evap_-4": 28.86,
+        "evap_1": 34.39,
+        "evap_6": 40.91,
+        "evap_11": 48.94,
+        "evap_16": 59.21
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 14.56,
+        "evap_-14": 18.37,
+        "evap_-9": 22.57,
+        "evap_-4": 27.23,
+        "evap_1": 32.5,
+        "evap_6": 38.66,
+        "evap_11": 46.17,
+        "evap_16": 55.69
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 17.04,
+        "evap_-9": 21.08,
+        "evap_-4": 25.55,
+        "evap_1": 30.58,
+        "evap_6": 36.42,
+        "evap_11": 43.47,
+        "evap_16": 52.34
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 19.46,
+        "evap_-4": 23.73,
+        "evap_1": 28.53,
+        "evap_6": 34.06,
+        "evap_11": 40.68,
+        "evap_16": 48.94
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 21.7,
+        "evap_1": 26.23,
+        "evap_6": 31.44,
+        "evap_11": 37.64,
+        "evap_16": 45.3
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 23.62,
+        "evap_6": 28.47,
+        "evap_11": 34.2,
+        "evap_16": 41.24
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 25.05,
+        "evap_11": 30.26,
+        "evap_16": 36.63
+      }
+    },
+    "power_consumption": {
+      "cond_10": {
+        "evap_-29": 2.87,
+        "evap_-24": 2.95,
+        "evap_-19": 3.02,
+        "evap_-14": 3.09,
+        "evap_-9": 3.15,
+        "evap_-4": 3.21,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 3.83,
+        "evap_-24": 3.88,
+        "evap_-19": 3.92,
+        "evap_-14": 3.96,
+        "evap_-9": 4,
+        "evap_-4": 4.04,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 4.72,
+        "evap_-24": 4.74,
+        "evap_-19": 4.75,
+        "evap_-14": 4.76,
+        "evap_-9": 4.77,
+        "evap_-4": 4.79,
+        "evap_1": 4.83,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 5.59,
+        "evap_-24": 5.56,
+        "evap_-19": 5.54,
+        "evap_-14": 5.52,
+        "evap_-9": 5.5,
+        "evap_-4": 5.5,
+        "evap_1": 5.52,
+        "evap_6": 5.55,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 6.46,
+        "evap_-24": 6.39,
+        "evap_-19": 6.33,
+        "evap_-14": 6.28,
+        "evap_-9": 6.24,
+        "evap_-4": 6.21,
+        "evap_1": 6.21,
+        "evap_6": 6.22,
+        "evap_11": 6.26,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 7.27,
+        "evap_-19": 7.17,
+        "evap_-14": 7.09,
+        "evap_-9": 7.02,
+        "evap_-4": 6.96,
+        "evap_1": 6.94,
+        "evap_6": 6.93,
+        "evap_11": 6.96,
+        "evap_16": 7.02
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 8.1,
+        "evap_-14": 7.98,
+        "evap_-9": 7.88,
+        "evap_-4": 7.8,
+        "evap_1": 7.74,
+        "evap_6": 7.72,
+        "evap_11": 7.73,
+        "evap_16": 7.77
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 9,
+        "evap_-9": 8.86,
+        "evap_-4": 8.75,
+        "evap_1": 8.67,
+        "evap_6": 8.62,
+        "evap_11": 8.61,
+        "evap_16": 8.64
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 10.01,
+        "evap_-4": 9.86,
+        "evap_1": 9.76,
+        "evap_6": 9.68,
+        "evap_11": 9.65,
+        "evap_16": 9.66
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 11.18,
+        "evap_1": 11.04,
+        "evap_6": 10.94,
+        "evap_11": 10.89,
+        "evap_16": 10.88
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 12.57,
+        "evap_6": 12.44,
+        "evap_11": 12.36,
+        "evap_16": 12.33
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 14.22,
+        "evap_11": 14.11,
+        "evap_16": 14.06
+      }
+    },
+    "current_a": {
+      "cond_10": {
+        "evap_-29": 242.4,
+        "evap_-24": 309.78,
+        "evap_-19": 384.45,
+        "evap_-14": 467.44,
+        "evap_-9": 560.77,
+        "evap_-4": 668.24,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_15": {
+        "evap_-29": 228.91,
+        "evap_-24": 294.52,
+        "evap_-19": 366.81,
+        "evap_-14": 446.5,
+        "evap_-9": 535.25,
+        "evap_-4": 636.35,
+        "evap_1": null,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_20": {
+        "evap_-29": 217.93,
+        "evap_-24": 282.63,
+        "evap_-19": 353.61,
+        "evap_-14": 431.36,
+        "evap_-9": 517.17,
+        "evap_-4": 613.92,
+        "evap_1": 726.42,
+        "evap_6": null,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_25": {
+        "evap_-29": 208.65,
+        "evap_-24": 273.13,
+        "evap_-19": 343.69,
+        "evap_-14": 420.59,
+        "evap_-9": 504.86,
+        "evap_-4": 598.96,
+        "evap_1": 707.21,
+        "evap_6": 837.07,
+        "evap_11": null,
+        "evap_16": null
+      },
+      "cond_30": {
+        "evap_-29": 200.24,
+        "evap_-24": 265.03,
+        "evap_-19": 335.85,
+        "evap_-14": 412.8,
+        "evap_-9": 496.65,
+        "evap_-4": 589.5,
+        "evap_1": 695.26,
+        "evap_6": 820.76,
+        "evap_11": 976.2,
+        "evap_16": null
+      },
+      "cond_35": {
+        "evap_-29": null,
+        "evap_-24": 257.34,
+        "evap_-19": 328.92,
+        "evap_-14": 406.57,
+        "evap_-9": 490.85,
+        "evap_-4": 583.58,
+        "evap_1": 688.23,
+        "evap_6": 811.14,
+        "evap_11": 961.81,
+        "evap_16": 1154.9
+      },
+      "cond_40": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": 321.7,
+        "evap_-14": 400.48,
+        "evap_-9": 485.79,
+        "evap_-4": 579.2,
+        "evap_1": 683.82,
+        "evap_6": 805.49,
+        "evap_11": 953.12,
+        "evap_16": 1140.58
+      },
+      "cond_45": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": 393.12,
+        "evap_-9": 479.81,
+        "evap_-4": 574.4,
+        "evap_1": 679.7,
+        "evap_6": 801.12,
+        "evap_11": 947,
+        "evap_16": 1130.47
+      },
+      "cond_50": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": 471.22,
+        "evap_-4": 567.2,
+        "evap_1": 673.56,
+        "evap_6": 795.31,
+        "evap_11": 940.27,
+        "evap_16": 1120.93
+      },
+      "cond_55": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": 555.63,
+        "evap_1": 663.08,
+        "evap_6": 785.35,
+        "evap_11": 929.81,
+        "evap_16": 1108.28
+      },
+      "cond_60": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": 645.94,
+        "evap_6": 768.55,
+        "evap_11": 912.44,
+        "evap_16": 1088.88
+      },
+      "cond_65": {
+        "evap_-29": null,
+        "evap_-24": null,
+        "evap_-19": null,
+        "evap_-14": null,
+        "evap_-9": null,
+        "evap_-4": null,
+        "evap_1": null,
+        "evap_6": 742.18,
+        "evap_11": 885.02,
+        "evap_16": 1059.08
+      }
+    }
+  }
+}
