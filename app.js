@@ -620,10 +620,10 @@ function exportCSV(T_nar, To, Q_req) {
         row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(';')
     ).join('\r\n');
 
-      // BOM для UTF-8. Без sep= — иначе Excel игнорирует BOM.
-  const csv = body;
+    // BOM для UTF-8. Без sep= — иначе Excel игнорирует BOM.
+    const csv = body;
 
-  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+    const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
@@ -634,19 +634,17 @@ function exportCSV(T_nar, To, Q_req) {
     URL.revokeObjectURL(url);
 }
 
-// Аккордеон: открываем один блок — закрываем остальные
-(function setupAccordion() {
-    const items = document.querySelectorAll('.accordion .acc-item');
-    items.forEach(d => {
-        d.addEventListener('toggle', () => {
-            if (d.open) {
-                items.forEach(other => {
-                    if (other !== d) other.open = false;
-                });
-            }
-        });
-    });
-})();
+function toggleAcc(btn) {
+    const item = btn.parentElement;
+    const accordion = item.parentElement;
+    const wasOpen = item.classList.contains('open');
+
+    // Закрываем все
+    accordion.querySelectorAll('.acc-item').forEach(el => el.classList.remove('open'));
+
+    // Открываем, если был закрыт
+    if (!wasOpen) item.classList.add('open');
+}
 
 // ============================================================
 // СТАРТ
